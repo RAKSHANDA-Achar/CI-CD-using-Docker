@@ -1,2 +1,2 @@
 #sudo docker login --username=$username --password=$password
-sudo docker push hemasahur/samplejavaapp:latest
+sudo docker push rakshandaj/raksha:Jenkinestest-v1

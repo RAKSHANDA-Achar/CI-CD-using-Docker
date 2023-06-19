@@ -1,1 +1,1 @@
-sudo docker build -t rakshandaj/raksha:Jenkinestest-v1 .
+sudo docker build -t rakshandaj/raksha:javaapp-v1 .
